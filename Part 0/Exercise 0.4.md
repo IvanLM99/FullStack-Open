@@ -1,5 +1,8 @@
+# Diagrams
+
+## 0.4: Creating a New Note (Multi-page App)
+
 ```mermaid
-graph TD;
 sequenceDiagram
     participant browser
     participant server
